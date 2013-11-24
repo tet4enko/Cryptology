@@ -1,0 +1,6 @@
+D:\Repositories\Cryptology\shennon-fano\shennon-fano\shennon-fano\bin\Debug\shennon-fano.exe.config
+D:\Repositories\Cryptology\shennon-fano\shennon-fano\shennon-fano\bin\Debug\shennon-fano.exe
+D:\Repositories\Cryptology\shennon-fano\shennon-fano\shennon-fano\bin\Debug\shennon-fano.pdb
+D:\Repositories\Cryptology\shennon-fano\shennon-fano\shennon-fano\obj\Debug\shennon-fano.csprojResolveAssemblyReference.cache
+D:\Repositories\Cryptology\shennon-fano\shennon-fano\shennon-fano\obj\Debug\shennon-fano.exe
+D:\Repositories\Cryptology\shennon-fano\shennon-fano\shennon-fano\obj\Debug\shennon-fano.pdb
